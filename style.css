@@ -15,7 +15,7 @@ body {
 	border: 10px solid #9612eb;
 	margin: 60px auto 0 auto;
 	box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("./image/317999157_6483781731649461_4693786702795019256_n.jpg");
+	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("/image/317999157_6483781731649461_4693786702795019256_n.jpg");
 
 	background-position: center;
 	/* Center the image */
@@ -32,7 +32,7 @@ body {
 	border: 10px solid #9612eb;
 	margin: 60px auto 0 auto;
 	box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("./image/318794690_714986016850140_3995816123595915433_n.jpg");
+	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("/image/318794690_714986016850140_3995816123595915433_n.jpg");
 
 	background-position: center;
 	/* Center the image */
@@ -49,7 +49,7 @@ body {
 	border: 10px solid #9612eb;
 	margin: 60px auto 0 auto;
 	box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("./image/318074171_566448898629041_1950892756525598085_n.jpg");
+	background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("/image/318074171_566448898629041_1950892756525598085_n.jpg");
 
 	background-position: center;
 	/* Center the image */
